@@ -115,9 +115,9 @@ body{
 .card > p{
    color: var(--Light-Grayish-Magenta);
    font-weight: 400;
-   font-size: 1.3vw;
-   margin-top: 2.4vw;
-   line-height: 1.6vw;
+   font-size: 80%;
+   margin-top: 3vh;
+   line-height: 3vh;
 }
 
 .card:nth-child(1){
